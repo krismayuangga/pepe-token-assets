@@ -1,0 +1,12 @@
+{
+  "name": "PEPE",
+  "symbol": "PEPE",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "PEPE Tubes adalah token yang bisa menghasilkan keuntungan dengan staking.",
+  "website": "https://pepetubes.io",
+  "explorer": "https://bscscan.com/token/0x0C5779d8B1a606b0De41c14Bee64f3bB1169C71B",
+  "twitter": "https://x.com/PepeTubes",
+  "telegram": "https://t.me/PepeTubes_Community",
+  "discord": "https://discord.gg/6ANZMeSu"
+}
